@@ -102,18 +102,21 @@ div a:hover, #header a:hover {
     border-color: #f5ec48;
 }
 
-#community, #stuff, #nav-community, #nav-docs {
+#nav-docs {
     background: #c0e472;
     border-color: #a5e41c;
 }
-#specs, #nav-specs, #nav-fun {
+
+#nav-fun {
     background: #e47286;
     border-color: #e43b59;
 }
-#compiler, #docs, #nav-compilers, #nav-whatever {
+
+#nav-whatever {
     background: #f5ef7b;
     border-color: #f5ec48;
 }
+
 #download {
     border: 2px solid white;
     -moz-box-shadow: 5px 5px 10px white;
