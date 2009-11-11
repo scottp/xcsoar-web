@@ -18,7 +18,7 @@ body {
 #wrapper-outer {
     margin: 0px auto;   /* Goodbye, IE5 */
     padding: 0;
-    width: 100%; /*55.21em;  A little slipping room */
+    width: 60em; /*55.21em;  A little slipping room */
     max-width: 100%;
 }
 
@@ -180,19 +180,6 @@ a.special {
 
 #navigation .active a {
     text-decoration: underline;
-}
-
-.status_draft {
-	border: 1px black solid;
-	padding: 2px;
-	background-color: yellow;
-}
-
-.status_old {
-	border: 1px black solid;
-	padding: 2px;
-	background-color: red;
-	color: white;
 }
 
 #navigation :link, #navigation :hover, #navigation :visited, #navigation :hover {
