@@ -194,3 +194,18 @@ a.special {
 #navigation :link, #navigation :hover, #navigation :visited, #navigation :hover {
 	color:#000;
 }
+
+.status_draft {
+        border: 1px black solid;
+        padding: 2px;
+        background-color: yellow;
+}
+
+.status_old {
+        border: 1px black solid;
+        padding: 2px;
+        background-color: red;
+        color: white;
+}
+
+
