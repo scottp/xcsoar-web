@@ -18,7 +18,7 @@ body {
 #wrapper-outer {
     margin: 0px auto;   /* Goodbye, IE5 */
     padding: 0;
-    width: 60em; /*55.21em;  A little slipping room */
+    width: 100%;
     max-width: 100%;
 }
 
